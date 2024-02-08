@@ -25,7 +25,7 @@ header h1 {
   font-family: Gopher;
   font-weight: bold;
   font-size: 36px;
-  color: #082D49;
+  color: #ac32ca;
   margin: 0;
   display: inline;
 }
@@ -37,7 +37,7 @@ header a {
 .button{
   background-color: #082D49;
   font-family: Gopher;
-  color: white;
+  color: rgba(241, 243, 229, 0.884);
   padding: 15px 15px;
   text-align: center;
   text-decoration: none;
@@ -95,14 +95,14 @@ header a {
 
 
 .intro {
-  color: #ffffff;
+  color: #9b3be9;
   text-align: left;
 
 }
 
 .intro p {
   line-height: 1.7;
-  color: #ffffff;
+  color: #8e3fd8;
   width: 80%;
   font-weight: lighter;
   font-size: 20px;
